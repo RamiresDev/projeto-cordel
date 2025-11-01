@@ -29,7 +29,6 @@ Este projeto explora o uso de **tipografia, alinhamento de layout e design respo
 
 ## 🖼️ Prévia
 ![Prévia do Cordel](imagens/preview-site.png)  
-*(Adicione aqui uma captura de tela do resultado final — pode ser a página completa ou um trecho que mostre o design.)*
 
 ---
 
